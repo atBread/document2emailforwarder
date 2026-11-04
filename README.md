@@ -1,0 +1,2 @@
+# document2emailforwarder
+透过浏览器网页HTML前端与后端cfworkers沟通，以实现文件从前端转发到邮箱附件的功能
